@@ -1,0 +1,1 @@
+#R labs from the 'introduction to statistical learnings' mooc from Stanford
